@@ -5,3 +5,4 @@ His C (2 <= C <= N) cows don't like this barn layout and become aggressive towar
 
 Approach to solve the problem:- 
 1.It is a classical problem of searching so we use binary search in it because of it nlogn complexity rather than n^2 complexity of linear search which would take more time.
+2.so we have to apply binary search  here.
